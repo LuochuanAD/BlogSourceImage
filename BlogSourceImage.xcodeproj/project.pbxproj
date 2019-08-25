@@ -58,6 +58,7 @@
 		800BB7FF2312CA9100677AB4 /* BlogSourceImage */ = {
 			isa = PBXGroup;
 			children = (
+				800BB8162312CB6600677AB4 /* BlogSourceImages */,
 				800BB8002312CA9100677AB4 /* AppDelegate.h */,
 				800BB8012312CA9100677AB4 /* AppDelegate.m */,
 				800BB8032312CA9100677AB4 /* ViewController.h */,
@@ -69,6 +70,13 @@
 				800BB80F2312CA9100677AB4 /* main.m */,
 			);
 			path = BlogSourceImage;
+			sourceTree = "<group>";
+		};
+		800BB8162312CB6600677AB4 /* BlogSourceImages */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = BlogSourceImages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
